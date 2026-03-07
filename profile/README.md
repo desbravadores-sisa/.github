@@ -33,12 +33,12 @@ Estamos desenvolvendo uma aplicação voltada para a gestão de fluxo de trabalh
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ✒️ Equipe de Desenvolvimento
-* **Integrante 1:** [Nome Completo]
-* **Integrante 2:** [Nome Completo]
-* **Integrante 3:** [Nome Completo]
-* **Integrante 4:** [Nome Completo]
-* **Integrante 5:** [Nome Completo]
-* **Integrante 6:** [Nome Completo]
+* **Integrante 1:** ARTHUR FELIPE AMARAL DA SILVA
+* **Integrante 2:** GABRIEL CAMARGO BRAZ DE ALMEIDA
+* **Integrante 3:** GABRIELLY MARQUEZ SARZURI
+* **Integrante 4:** MARCELA BASTOS VICENTE
+* **Integrante 5:** MATHEUS CHIOSINI SCALABRIN
+* **Integrante 6:** NATHAN BARBOSA TEIXEIRA
 
 ---
 *Este projeto é uma iniciativa voluntária para fortalecer o trabalho do Clube de Desbravadores Tigre da Montanha através da tecnologia.*

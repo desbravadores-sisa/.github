@@ -3,7 +3,7 @@
 
   <br><br>
 
-  <img src="Logo.png" alt="Logo Tigre da Montanha" width="200" height="200" style="border-radius: 50%; border: 5px solid white; margin-top: -100px; position: relative; z-index: 1;">
+  <img src="logo.png" alt="Logo Tigre da Montanha" width="200" height="200" style="border-radius: 50%; border: 5px solid white; margin-top: -100px; position: relative; z-index: 1;">
 </div>
 
 <br>
@@ -11,7 +11,9 @@
 
 
 
-<h1 align="center">>🐯 Desbravadores - Apoio ao Clube Tigre da Montanha</h1>
+<h1 align="center">🐯 Desbravadores - Apoio ao Clube Tigre da Montanha</h1>
+
+
 
 Esta organização foi criada para desenvolver soluções tecnológicas em apoio ao **Clube de Desbravadores Tigre da Montanha**. Nosso objetivo é facilitar a gestão do clube, ajudando líderes e membros na organização de suas tarefas, requisitos e atividades diárias.
 

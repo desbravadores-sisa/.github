@@ -3,12 +3,6 @@
 
   <br><br>
 
-  <img src="logo.png" alt="Logo Tigre da Montanha" width="200" height="200" style="border-radius: 50%; border: 5px solid white; margin-top: -100px; position: relative; z-index: 1;">
-</div>
-
-<br>
-
-
 
 
 <h1 align="center">🐯 Desbravadores - Apoio ao Clube Tigre da Montanha</h1>

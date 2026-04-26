@@ -71,7 +71,7 @@ Estamos desenvolvendo uma aplicação voltada para a gestão de fluxo de trabalh
     </td>
     <td align="center">
       <!-- Coloque sua imagem aqui -->
-      <img src="nathan.png" width="120px"><br>
+      <img src="nathan.jpg" width="120px"><br>
       <b>Nathan Barbosa Teixeira</b>
     </td>
   </tr>
